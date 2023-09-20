@@ -1,5 +1,3 @@
-
-
 package ru.tinkoff.edu.seminar.lesson1.service;
 
 import org.springframework.beans.factory.annotation.Value;

@@ -12,7 +12,7 @@ public class HelloWorldService {
 			@Value("${name:World}") String name) {
 		this.name = name;
 	}
-	@Value("${name:World}")
+	
 	private final String name;
 
 	public String getHelloMessage() {
